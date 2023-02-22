@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6734fc2f-2ed9-49a8-9181-402d731a4797" name="Changes" comment="Ticket 3 realizado">
+    <list default="true" id="6734fc2f-2ed9-49a8-9181-402d731a4797" name="Changes" comment="Ticket 4 realizado">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tipo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tipo.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,12 +74,27 @@
       <option name="project" value="LOCAL" />
       <updated>1677089958650</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ticket 3 realizado">
+      <created>1677090538925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090538925</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ticket 4 realizado">
+      <created>1677090551078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090551078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ticket 01 y ticket 02 realizado" />
     <MESSAGE value="Ticket 3 realizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ticket 3 realizado" />
+    <MESSAGE value="Ticket 4 realizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ticket 4 realizado" />
   </component>
 </project>
