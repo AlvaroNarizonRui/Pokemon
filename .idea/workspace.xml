@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6734fc2f-2ed9-49a8-9181-402d731a4797" name="Changes" comment="Ticket 4 realizado">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tipo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tipo.kt" afterDir="false" />
+    <list default="true" id="6734fc2f-2ed9-49a8-9181-402d731a4797" name="Changes" comment="Ticket 4B realizado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/usuariot/Desktop/1ºDAWN/programación 1ero DAW/KOTLIN/HERENCIA",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,13 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677090551078</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ticket 4B realizado">
+      <created>1677090829825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090829825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ticket 4B realizado">
+      <created>1677090838745</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677090838745</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ticket 01 y ticket 02 realizado" />
     <MESSAGE value="Ticket 3 realizado" />
     <MESSAGE value="Ticket 4 realizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ticket 4 realizado" />
+    <MESSAGE value="Ticket 4B realizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ticket 4B realizado" />
   </component>
 </project>
